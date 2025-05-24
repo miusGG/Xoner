@@ -1,3 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1748080127
-icon.svg::CompressedTexture2D::7055413500150678195::1748080122::1748080128::1::::<><><>0<>0<>a2e450cb63f416d34eef9b607c955d7f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1748081848
+icon.svg::CompressedTexture2D/CompressedTexture2D::7055413500150678195::1748081022::1748081022::1::::<><><>0<>0<>a2e450cb63f416d34eef9b607c955d7f<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+player.tscn::PackedScene/PackedScene::5955748101350988108::1748081022::0::1::::<><><>0<>0<><>::
+README.md::TextFile/TextFile::-1::1748081022::0::1::::<><><>0<>0<><>::
+::res://Nodes/::1748081531
+test_lvl.tscn::PackedScene/PackedScene::2314091288189413974::1748081022::0::1::::<><><>0<>0<><>::
+::res://Sprites/::1748082262
+player.png::CompressedTexture2D::2668197224950100463::1748082262::1748082262::1::::<><><>0<>0<>b615a1807a56abd99ea503f2c2840cdf<>res://.godot/imported/player.png-b12d81cacd41edd115dbd315254b5ad9.ctex::
